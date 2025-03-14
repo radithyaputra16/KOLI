@@ -3,3 +3,4 @@ fun main () {
     var bola = "ronaldo"
     println("$Nama menyukai $bola")
 }
+var 1 = '1'
