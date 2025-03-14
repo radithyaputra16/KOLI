@@ -15,3 +15,7 @@ fun Anggotatim () {
     )
     println(Anggota)
 }
+fun Materi () {
+    var Mater = mutableSetOf("Galaktik")
+    println(Mater)
+}
